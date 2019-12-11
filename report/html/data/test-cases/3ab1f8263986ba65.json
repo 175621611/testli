@@ -1,0 +1,55 @@
+{
+  "uid" : "3ab1f8263986ba65",
+  "name" : "test_mobile_network_2g",
+  "fullName" : "scripts.test_network.TestNetwork#test_mobile_network_2g",
+  "historyId" : "9e61ccdc9acf900517f4b60b56fca12c",
+  "time" : {
+    "start" : 1575984982681,
+    "stop" : 1575984987582,
+    "duration" : 4901
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_network"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestNetwork"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PGMDDG1"
+  }, {
+    "name" : "thread",
+    "value" : "4980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_network"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ab1f8263986ba65.json",
+  "parameterValues" : [ ]
+}

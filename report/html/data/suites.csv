@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_network.TestNetwork#test_mobile_network_3g","4643",""
+"passed","scripts.test_network.TestNetwork#test_mobile_network_2g","4901",""

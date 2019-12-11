@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-PGMDDG1",
+    "children" : [ {
+      "name" : "4980-MainThread",
+      "children" : [ {
+        "name" : "test_mobile_network_3g",
+        "uid" : "bfbe6fe238e58734",
+        "parentUid" : "8b5624c5721f2b807b2343ee1741819f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575985010547,
+          "stop" : 1575985015190,
+          "duration" : 4643
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mobile_network_2g",
+        "uid" : "3ab1f8263986ba65",
+        "parentUid" : "8b5624c5721f2b807b2343ee1741819f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575984982681,
+          "stop" : 1575984987582,
+          "duration" : 4901
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8b5624c5721f2b807b2343ee1741819f"
+    } ],
+    "uid" : "af55050825b83e41e17b4c3c50234090"
+  } ]
+}

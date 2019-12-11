@@ -1,0 +1,55 @@
+{
+  "uid" : "bfbe6fe238e58734",
+  "name" : "test_mobile_network_3g",
+  "fullName" : "scripts.test_network.TestNetwork#test_mobile_network_3g",
+  "historyId" : "de9fd4aa867539fe094b68bc38ece494",
+  "time" : {
+    "start" : 1575985010547,
+    "stop" : 1575985015190,
+    "duration" : 4643
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_network"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestNetwork"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PGMDDG1"
+  }, {
+    "name" : "thread",
+    "value" : "4980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_network"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfbe6fe238e58734.json",
+  "parameterValues" : [ ]
+}

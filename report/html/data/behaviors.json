@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_mobile_network_2g",
+    "uid" : "3ab1f8263986ba65",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1575984982681,
+      "stop" : 1575984987582,
+      "duration" : 4901
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mobile_network_3g",
+    "uid" : "bfbe6fe238e58734",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1575985010547,
+      "stop" : 1575985015190,
+      "duration" : 4643
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

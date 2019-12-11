@@ -1,0 +1,21 @@
+[ {
+  "uid" : "bfbe6fe238e58734",
+  "name" : "test_mobile_network_3g",
+  "time" : {
+    "start" : 1575985010547,
+    "stop" : 1575985015190,
+    "duration" : 4643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ab1f8263986ba65",
+  "name" : "test_mobile_network_2g",
+  "time" : {
+    "start" : 1575984982681,
+    "stop" : 1575984987582,
+    "duration" : 4901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
